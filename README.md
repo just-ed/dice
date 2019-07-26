@@ -6,4 +6,8 @@
 * The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 * The first player to reach 100 points on GLOBAL score wins the game
 
+## How to play:
 
+* Clone or download the repository
+* Open 'index.html' with your favorite web browser
+* Have fun :)
